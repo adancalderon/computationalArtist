@@ -1,4 +1,4 @@
-# Applied AI – Computational Artist
+# Applied AI – Computational Artist COMP 3710 - Applied Artificial Intelligence
 
 This project aims to explore the intersection of art and artificial intelligence (AI) through the creation of computational art. Computational art refers to the use of algorithms, computer code, and software tools to create art that is unique, expressive, and often interactive.
 
