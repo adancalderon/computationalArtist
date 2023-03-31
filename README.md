@@ -7,11 +7,10 @@ This project involves using machine learning and other AI techniques to generate
 
 Some of the techniques used in this project include:
 
-Generative adversarial networks (GANs)
-Neural style transfer
-Convolutional neural networks (CNNs)
-Recurrent neural networks (RNNs)
-Data visualization
+- Generative adversarial networks (GANs)
+- Convolutional neural networks (CNNs)
+- Recurrent neural networks (RNNs)
+- Data visualization
 
 ## Goals
 The main goals of this project are:
@@ -29,6 +28,7 @@ Adding new AI techniques or algorithms to the project
 Creating new visual or audio content using the existing tools and techniques
 Improving the documentation or code quality of the project
 License
+- Special thanks to Lucasdavid for his wonderful wrok on the wikiart retriever for art and metadata. (https://github.com/lucasdavid/wikiart)
 This project is licensed under the MIT License - see the LICENSE.md file for details.
 
 
