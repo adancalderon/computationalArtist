@@ -2,6 +2,8 @@
 
 This project aims to explore the intersection of art and artificial intelligence (AI) through the creation of computational art. Computational art refers to the use of algorithms, computer code, and software tools to create art that is unique, expressive, and often interactive.
 
+THE MAIN FILE IS LOCATED within the notebooks/finalProjectAI.ipynb
+
 ## Description
 This project involves using machine learning and other AI techniques to generate and manipulate visual  content. The focus is on exploring the creative potential of these tools and techniques, rather than using them for practical or commercial purposes.
 
