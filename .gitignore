@@ -2,3 +2,5 @@ notebooks/data
 notebooks/cifar_net.pth
 .ipynb_checkpoints/
 notebooks/trained_vgg19.pth
+../computationalArtist.zip
+./data/wikiart/wikiart/wikiart-saved
